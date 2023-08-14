@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @TheAnoobs
 - 👀 I’m interested in get a new kayboard!
-- 🌱 I’m currently learning HTML, CSS, Java
+- 🌱 I’m currently learning 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 - 📫 How to reach me ... don't know...When I manage to reach myself I'll let you know
 
 <!---
